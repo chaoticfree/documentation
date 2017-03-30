@@ -1,5 +1,4 @@
 # DSX Documentation support 
-#DSX/documentation
  
 ## Goal 
 Work with the community and DSX network to create a more centralized curriculum or guidelines for best practices. 
