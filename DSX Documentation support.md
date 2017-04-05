@@ -12,12 +12,9 @@ Activist communities in the United States have centralized curriculum and guidel
  * Focus on long-term capacity
 
 ## Objectives
- * Conduct research to understand existing gaps, needs, and community politics  
- * Develop DSX documentation hub that syncs with existing platforms and authors 
- 
-  * Identify core partners  (overlapping with DSX and separate) 
-  * Conceptualize online platform 
-  * Pull together volunteers and paid consultants to build it 
+ * Research identifies core partners, assess community needs and maps the political space. It identifies existing resources and gaps.
+ * Development of an online platform is conceptualized.
+ * Implementation of the platform leads to strategic planning for sustainability of the project.
 
 ## Activities
 ### Research: Mapping resources and needs
