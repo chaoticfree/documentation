@@ -17,15 +17,24 @@ Activist communities in the United States have centralized curriculum and guidel
  * Implementation of the platform leads to strategic planning for sustainability of the project.
 
 ## Activities
-### Research: Mapping resources and needs
 
- * What curricula exist already? Who are they designed for?
+### Research
+
+1. Identify core partners who represent the community
+
+ * What is the status of existing efforts? Do they need financial or human support? What can the DSX offer? Should we partner up or provide support for existing efforts?
+
+2. Conduct a needs assessment with partners and map the political space
+
  * What is working for communities outside the U.S.?
  * What is needed in the U.S.?
+
+3. Identify existing resources and gaps
+
+ * What curricula exist already? Who are they designed for?
  * What are the gaps for what is needed in the US with what is already out there (and also good)?
  * Who is creating and maintaining documentation?
- * What is the status of existing efforts? Do they need financial or human support? What can the DSX offer? Should we partner up or provide support for existing efforts?
- * Nathan is an author of much of the LevelUp documentation – he's interested in modernizing it and looping it into DSX
+ * Does the documentation need modernizing?
 
 ### Development: Conceiving of a new or adapted platform
 
