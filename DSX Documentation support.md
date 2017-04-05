@@ -1,8 +1,9 @@
 # DSX Documentation support 
 
 ## Outcome
-Work with the community and DSX network to create a more centralized curriculum or guidelines for best practices. 
+Activist communities in the United States have centralized curriculum and guidelines and uses best practice in digital security.
 
+	• Communities and DSX Network curate together resources so that they are relevant and useful
 	• Establish a common, open format (plaintext/Markdown/git)
 	• DSX staff maintain repository and, with volunteer support, format docs
 	• List existing docs, but also float up most up-to-date and useful
