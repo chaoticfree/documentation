@@ -1,15 +1,18 @@
 # DSX Documentation support 
 
 ## Outcome
+
 Activist communities in the United States have centralized curriculum and guidelines and uses best practice in digital security.
 
- * Communities and DSX Network curate together resources so that they are relevant and useful
- * Establish a common, open format (plaintext/Markdown/git)
- * DSX staff maintain repository and, with volunteer support, format docs
- * List existing docs, but also float up most up-to-date and useful
- * Partner with authors to keep docs up-to-date
- * Include or develop documentation about changing organizations: managing up, convincing leadership of need for change, changing culture and habits
- * Focus on long-term capacity
+We achieve this outcome while following a set of guiding principles:
+
+ * Communities and DSX Network curate together resources so that they are relevant and useful.
+ * Partnerships with individuals and communities are a sustainability strategy and increase impact.
+ * Common, open and interoperable formats contribute to engagement, iteration and sustainability.
+ * Participatory communities and their outputs require moderation, maintenance and gardening.
+ * Not all documentation is equally accurate, timely or useful.
+ * Some resources should address context, not just security, such as managing up, convincing leadership of need for change, changing culture and habits.
+ * Impactful change is building capacity of partners in the long term.
 
 ## Objectives
  * Research identifies core partners, assess community needs and maps the political space. It identifies existing resources and gaps.
