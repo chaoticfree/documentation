@@ -1,6 +1,6 @@
 # DSX Documentation support 
- 
-## Goal 
+
+## Outcome
 Work with the community and DSX network to create a more centralized curriculum or guidelines for best practices. 
 
 	• Establish a common, open format (plaintext/Markdown/git)
@@ -10,14 +10,14 @@ Work with the community and DSX network to create a more centralized curriculum 
 	• Include or develop documentation about changing organizations: managing up, convincing leadership of need for change, changing culture and habits
 	• Focus on long-term capacity
 
-## How 
+## Objectives
 	• Conduct research to understand existing gaps, needs, and community politics  
 	• Develop DSX documentation hub that syncs with existing platforms and authors 
 		• Identify core partners  (overlapping with DSX and separate) 
 		• Conceptualize online platform 
 		• Pull together volunteers and paid consultants to build it 
 
-## What
+## Activities
 ### Research: Mapping resources and needs
 
 	• What curricula exist already? Who are they designed for?
