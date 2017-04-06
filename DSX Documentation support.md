@@ -61,12 +61,18 @@ In order to fulfill our three objectives, we have identified several activities 
   * How do we handle bringing in pieces of an existing resource, such as one module on this topic but not everything?
   * Not all resources are the same. How do we display the resources in a way that puts up front the goal of the resource and its niche? Like LevelUp is for trainers. SIAB is for end users but best delivered by a trainer. First-aid kit is for self-help online, etc.
 
-### Implementation: Publishing positions
+### Implementation
 
-  * Working with DSX to develop “positions,” or suggestions – documentation in context
+1. Platform development and content import
+
+  * Theme and engine creation
   * Use versioning to keep everything up-to-date (partnering with authors)
   * Introducing “new” resources and filling in gaps identified in the research phase like border crossing recommendations, yubikeys, use of Chromebooks, etc
   * How to "mash up" existing resources but tweaking or localizing them.
+  
+2. Long term strategy and sustainability
+
+  * Working with DSX to develop “positions,” or suggestions – documentation in context
   * What's the workflow when you've used 75% of a resource. Do you now maintain two copies of what is essentially the same document from now on?
 
 ## Activities (framed as a timeline)
