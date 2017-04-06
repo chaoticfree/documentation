@@ -4,7 +4,7 @@
 
 Activist communities in the United States have centralized curriculum and guidelines and uses best practice in digital security.
 
-We achieve this outcome while following a set of guiding principles:
+We achieve this outcome by setting the objectives below and following a set of guiding principles:
 
  * Communities and DSX Network curate together resources so that they are relevant and useful.
  * Partnerships with individuals and communities are a sustainability strategy and increase impact.
