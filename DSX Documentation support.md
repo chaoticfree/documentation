@@ -15,6 +15,9 @@ We achieve this outcome by setting the objectives below and following a set of g
  * Impactful change is building capacity of partners in the long term.
 
 ## Objectives
+
+We have identified the requirements to achieve our desired outcome with three objectives, which are also a useful division for the project's activities listed in the next section.
+
  * Research identifies core partners, assess community needs and maps the political space. It identifies existing resources and gaps.
  * Development of an online platform is conceptualized.
  * Implementation of the platform leads to strategic planning for sustainability of the project.
