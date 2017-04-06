@@ -29,16 +29,13 @@ In order to fulfill our three objectives, we have identified several activities 
 ### Research
 
 1. Identify core partners who represent the community
-
   * What is the status of existing efforts? Do they need financial or human support? What can the DSX offer? Should we partner up or provide support for existing efforts?
 
 2. Conduct a needs assessment with partners and map the political space
-
   * What is working for communities outside the U.S.?
   * What is needed in the U.S.?
 
 3. Identify existing resources and gaps
-
   * What curricula exist already? Who are they designed for?
   * What are the gaps for what is needed in the US with what is already out there (and also good)?
   * Who is creating and maintaining documentation?
@@ -47,13 +44,11 @@ In order to fulfill our three objectives, we have identified several activities 
 ### Development
 
 1. Scope appropriate content informed by research phase
-
   * How do the soft skills and context sensitivity show up in documentation? Perhaps another case of clearly presenting "niche".
   * How can we integrate this into the mission of DSX to connect capacity builders with orgs in need?
   * Deciding what to do about resources relevant to this field that are not related to digital security directly in terms of content. Like a "code of conduct" at trainings, for example.
 
 2. Define platform specifications based on appropriate content
-
   * What is best practice when creating a new list of lists (who has done this well in any sector)? Look for examples to model.
   * Format: Is it necessary to unify existing documentation using a universal, open, easy-to-use format and platform (e.g. plaintext/Markdown/git)?
   * Linked to the core DSX site and platform?
@@ -64,14 +59,12 @@ In order to fulfill our three objectives, we have identified several activities 
 ### Implementation
 
 1. Develop platform development and import content
-
   * Theme and engine creation
   * Use versioning to keep everything up-to-date (partnering with authors)
   * Introducing “new” resources and filling in gaps identified in the research phase like border crossing recommendations, yubikeys, use of Chromebooks, etc
   * How to "mash up" existing resources but tweaking or localizing them.
   
 2. Define a long term strategy for sustainability
-
   * Working with DSX to develop “positions,” or suggestions – documentation in context
   * What's the workflow when you've used 75% of a resource. Do you now maintain two copies of what is essentially the same document from now on?
 
