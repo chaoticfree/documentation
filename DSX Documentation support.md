@@ -19,7 +19,7 @@ We achieve this outcome by setting the objectives below and following a set of g
 We have identified the requirements to achieve our desired outcome with three objectives, which are also a useful division for the project's activities listed in the next section.
 
  * Research identifies core partners, assess community needs and maps the political space. It identifies existing resources and gaps.
- * Development of an online platform is conceptualized.
+ * Development of an online platform is conceptualized based on content scoping.
  * Implementation of the platform leads to strategic planning for sustainability of the project.
 
 ## Activities (framed by objective)
@@ -44,17 +44,22 @@ In order to fulfill our three objectives, we have identified several activities 
   * Who is creating and maintaining documentation?
   * Does the documentation need modernizing?
 
-### Development: Conceiving of a new or adapted platform
+### Development
+
+1. Content scoping
+
+  * How do the soft skills and context sensitivity show up in documentation? Perhaps another case of clearly presenting "niche".
+  * How can we integrate this into the mission of DSX to connect capacity builders with orgs in need?
+  * Deciding what to do about resources relevant to this field that are not related to digital security directly in terms of content. Like a "code of conduct" at trainings, for example.
+
+2. Platform specifications
 
   * What is best practice when creating a new list of lists (who has done this well in any sector)? Look for examples to model.
   * Format: Is it necessary to unify existing documentation using a universal, open, easy-to-use format and platform (e.g. plaintext/Markdown/git)?
-  * How do we handle bringing in pieces of an existing resource, such as one module on this topic but not everything?
   * Linked to the core DSX site and platform?
   * Who would our core partners be on this? Would they overlap with DSX partners? Engineroom would be excellent on this.
-  * How can we integrate this into the mission of DSX to connect capacity builders with orgs in need?
+  * How do we handle bringing in pieces of an existing resource, such as one module on this topic but not everything?
   * Not all resources are the same. How do we display the resources in a way that puts up front the goal of the resource and its niche? Like LevelUp is for trainers. SIAB is for end users but best delivered by a trainer. First-aid kit is for self-help online, etc.
-  * Deciding what to do about resources relevant to this field that are not related to digital security directly in terms of content. Like a "code of conduct" at trainings, for example.
-  * How do the soft skills and context sensitivity show up in documentation? Perhaps another case of clearly presenting "niche".
 
 ### Implementation: Publishing positions
 
